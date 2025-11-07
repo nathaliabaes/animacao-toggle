@@ -1,9 +1,15 @@
-# Toggle Dark/Light Mode ☀️🌙
-Este projeto é um projeto de estudo e um exemplo simples de toggle de modo escuro e claro usando HTML, CSS e JavaScript.
+<h1 align="center" style="font-weight: bold;">Toggle Dark/Light Mode ☀️🌙</h1>
 
-<p align="left">
-    <img src="./src/sun.png" alt="sun" width="200px">
-    <img src="./src/moon.png" alt="moon" width="200px">
+<p align="center">
+    <b>Este projeto é um projeto de estudo e um exemplo simples de toggle de modo escuro e claro usando HTML, CSS e JavaScript</b>
 </p>
 
- [Ver projeto online](https://github.com/nathaliabaes/animacao-toggle.git)
+<h2 id="layout">🎨 Layout</h2>
+<p align="center">
+    <img src="./src/sun.png" alt="sun" width="400px">
+    <img src="./src/moon.png" alt="moon" width="400px">
+</p>
+
+<p align="center">
+     <a href="">📱 Visit this Project</a>
+</p>
