@@ -4,12 +4,12 @@
     <b>Este projeto é um projeto de estudo e um exemplo simples de toggle de modo escuro e claro usando HTML, CSS e JavaScript</b>
 </p>
 
-<h2 id="layout">🎨 Layout</h2>
+
 <p align="center">
     <img src="./src/sun.png" alt="sun" width="400px">
     <img src="./src/moon.png" alt="moon" width="400px">
 </p>
 
 <p align="center">
-     <a href="">📱 Visit this Project</a>
+     <a href="https://nathaliabaes.github.io/animacao-toggle/">📱 Visit this Project</a>
 </p>
