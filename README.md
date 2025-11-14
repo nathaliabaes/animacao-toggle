@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Toggle Dark/Light Mode ☀️🌙</h1>
 
 <p align="center">
-    <b>Este projeto é um projeto de estudo e um exemplo simples de toggle de modo claro e escuro usando HTML, CSS e JavaScript</b>
+    <strong>Este é um projeto de estudo 👩🏻‍💻 </strong> <br> Exemplo simples de toggle de modo claro e escuro usando HTML, CSS e JavaScript.
 </p>
 
 
@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-     <a href="https://nathaliabaes.github.io/animacao-toggle/">📱 Visit this Project</a>
+     <a href="https://nathaliabaes.github.io/animacao-toggle/">📱 Acesse este Projeto</a>
 </p>
